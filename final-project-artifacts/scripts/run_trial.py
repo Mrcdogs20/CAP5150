@@ -13,9 +13,9 @@ from datetime import datetime, timezone
 
 BASE = Path.home() / "Desktop/vpn-ssh-research"
 
-KALI_USER = "mrcdogs20"
-KALI_IP = "192.168.4.36"
-WG_IP = "10.10.0.2"
+KALI_USER = "username_here"
+KALI_IP = "X.X.X.X"
+WG_IP = "X.X.X.X"
 
 SSH_KEY = Path.home() / ".ssh/vpn_research_key"
 
