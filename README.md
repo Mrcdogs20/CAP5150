@@ -100,17 +100,37 @@ wireguard-ssh-lan-evaluation/
 │   └── tcp_latency_server.py
 ├── results/
 │   ├── throughput/
+│   │   ├── Direct/
+│   │   ├── SSH/
+│   │   └── WireGuard/
 │   ├── latency/
-│   └── resources/
+│   │   ├── Direct/
+│   │   ├── SSH/
+│   │   └── WireGuard/
+│   └── CPU & Memory/
+│       ├── Kali_Linux/
+│       │   ├── Direct/
+│       │   ├── SSH/
+│       │   └── WireGuard/
+│       └── macOS/
+│           ├── Direct/
+│           ├── SSH/
+│           └── WireGuard/
 ├── captures/
 ├── config-examples/
 └── report/
     └── final_report.pdf
 ```
 
-The `scripts/` directory contains experiment automation and measurement scripts. The `results/` directory contains experimental outputs, while `captures/` contains Wireshark packet captures. Configuration examples document tunnel setup, and `report/` contains the final research paper.
+### Directory Descriptions
 
-*Note: The repository structure should reflect the files actually uploaded. The TCP echo server script and optional configuration examples should only be listed if included.*
+- **`scripts/`** — Python scripts used to automate throughput and latency experiments.
+- **`results/throughput/`** — Throughput measurements for Direct LAN, SSH tunneling, and WireGuard VPN.
+- **`results/latency/`** — TCP echo RTT measurements for each configuration.
+- **`results/CPU & Memory/`** — Resource monitoring logs organized by operating system and network configuration.
+- **`captures/`** — Wireshark packet captures collected during the packet visibility evaluation.
+- **`config-examples/`** — Sanitized examples of SSH and WireGuard tunnel configurations.
+- **`report/`** — Final research paper containing the complete methodology, evaluation, discussion, and references.
 
 ## Reproducing the Experiments
 
@@ -147,9 +167,9 @@ Each command runs ten throughput trials for the selected configuration.
 Start the TCP echo server on Kali Linux using the included server script, then execute the following commands on macOS:
 
 ```bash
-python3 run_latency_batch.py direct 10
-python3 run_latency_batch.py ssh 10
-python3 run_latency_batch.py wireguard 10
+python3 scripts/run_latency_batch.py direct 10
+python3 scripts/run_latency_batch.py ssh 10
+python3 scripts/run_latency_batch.py wireguard 10
 ```
 
 These commands perform ten latency runs for each configuration and save the measured RTT values to CSV files.
