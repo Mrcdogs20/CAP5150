@@ -1,0 +1,12 @@
+{
+  "trial_id": "wireguard_official_20261110_145853_631815",
+  "configuration": "wireguard",
+  "duration_seconds": 30,
+  "start_time_utc": "2026-11-10T14:58:58.133416+00:00",
+  "end_time_utc": "2026-11-10T14:59:28.231903+00:00",
+  "destination": "10.10.0.2",
+  "port": 5201,
+  "receiver_mbps": 97.45528575603115,
+  "sender_reported_retransmissions": 692,
+  "retransmission_note": "For SSH, iperf3 reports retransmissions on the local forwarded TCP connection, not the SSH transport's wireless TCP leg."
+}
