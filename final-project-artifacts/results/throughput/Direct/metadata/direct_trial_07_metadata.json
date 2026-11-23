@@ -1,0 +1,12 @@
+{
+  "trial_id": "direct_official_20261110_150756_792433",
+  "configuration": "direct",
+  "duration_seconds": 30,
+  "start_time_utc": "2026-11-10T15:08:00.241018+00:00",
+  "end_time_utc": "2026-11-10T15:08:31.069801+00:00",
+  "destination": "192.168.4.36",
+  "port": 5201,
+  "receiver_mbps": 123.41310487183394,
+  "sender_reported_retransmissions": 102,
+  "retransmission_note": "For SSH, iperf3 reports retransmissions on the local forwarded TCP connection, not the SSH transport's wireless TCP leg."
+}
