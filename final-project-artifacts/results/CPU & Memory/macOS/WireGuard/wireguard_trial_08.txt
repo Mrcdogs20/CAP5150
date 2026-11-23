@@ -1,0 +1,748 @@
+Processes: 782 total, 2 running, 780 sleeping, 3373 threads 
+2026/11/10 09:58:56
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 1.36% user, 9.54% sys, 89.9% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 311090 total, 4078M resident, 360M private, 1856M shared.
+PhysMem: 14G used (1960M wired, 1411M compressor), 1427M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1956075/665M in, 4500898/6628M out.
+Disks: 723735/20G read, 398721/6022M written.
+
+PID   COMMAND          %CPU MEM  
+2300  top              0.0  4128K
+2295  IMDMessageServic 0.0  2240K
+2290  Python           0.0  8240K
+2288  mdworker_shared  0.0  2512K
+2287  mdworker_shared  0.0  3120K
+2285  Google Chrome He 0.0  13M  
+2259  mdworker_shared  0.0  3088K
+2247  biomesyncd       0.0  3552K
+2201  Python           0.0  7072K
+2186  mdworker_shared  0.0  3216K
+Processes: 782 total, 14 running, 768 sleeping, 3430 threads 
+2026/11/10 09:58:57
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 13.54% user, 5.19% sys, 81.26% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1856M shared.
+PhysMem: 14G used (1837M wired, 1411M compressor), 1424M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1956134/665M in, 4500960/6628M out.
+Disks: 723772/20G read, 399677/6028M written.
+
+PID   COMMAND          %CPU MEM   
+708   mediaanalysisd   58.8 27M+  
+1172  spotlightknowled 7.8  15M-  
+752   nsurlsessiond    6.7  7360K+
+2300  top              5.9  4272K+
+696   suggestd         5.6  23M-  
+705   cloudd           5.6  16M-  
+0     kernel_task      5.4  10M-  
+657   identityservices 4.9  19M   
+669   fileproviderd    4.3  16M+  
+656   trustd           4.0  8928K 
+Processes: 783 total, 3 running, 780 sleeping, 3475 threads 
+2026/11/10 09:58:58
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 5.52% user, 5.14% sys, 89.32% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 47 total, 1184K resident, 360M private, 1857M shared.
+PhysMem: 14G used (1913M wired, 1411M compressor), 1411M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1957191/665M in, 4506809/6636M out.
+Disks: 723814/20G read, 400049/6034M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 15.4 55M   
+0     kernel_task      9.7  10M   
+669   fileproviderd    9.4  16M+  
+752   nsurlsessiond    6.9  7360K 
+705   cloudd           6.7  16M   
+708   mediaanalysisd   6.6  22M-  
+2300  top              6.4  4272K 
+656   trustd           4.6  8928K 
+659   bird             4.5  11M+  
+406   WindowServer     3.6  480M+ 
+Processes: 782 total, 5 running, 777 sleeping, 3479 threads 
+2026/11/10 09:58:59
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 12.35% user, 14.90% sys, 72.73% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1847M wired, 1408M compressor), 1400M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1966342/666M in, 4526825/6664M out.
+Disks: 724015/20G read, 400595/6040M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 75.2 55M+  
+689   corespotlightd   42.3 29M   
+0     kernel_task      40.5 10M+  
+705   cloudd           15.0 16M+  
+669   fileproviderd    14.5 16M-  
+752   nsurlsessiond    11.6 7424K+
+729   photolibraryd    10.5 22M+  
+531   com.apple.Driver 9.5  33M   
+659   bird             7.6  11M+  
+2300  top              5.9  4288K+
+Processes: 782 total, 5 running, 777 sleeping, 3477 threads 
+2026/11/10 09:59:00
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 13.53% user, 13.62% sys, 72.83% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1863M wired, 1407M compressor), 1309M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1973794/666M in, 4545454/6690M out.
+Disks: 724138/20G read, 401202/6052M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 67.2 55M   
+1352  com.apple.photos 54.2 31M+  
+0     kernel_task      35.7 10M   
+1354  HubbleBlastDoorS 35.2 6641K+
+531   com.apple.Driver 9.6  33M   
+669   fileproviderd    9.1  17M+  
+705   cloudd           6.8  16M+  
+2300  top              6.3  4288K 
+653   Finder           5.8  79M-  
+752   nsurlsessiond    5.5  7424K 
+Processes: 782 total, 2 running, 780 sleeping, 3473 threads 
+2026/11/10 09:59:01
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 11.18% user, 14.63% sys, 74.18% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 11927 total, 10M resident, 360M private, 1857M shared.
+PhysMem: 14G used (1883M wired, 1407M compressor), 1338M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1981924/667M in, 4564588/6716M out.
+Disks: 724265/20G read, 402216/6072M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 70.9 55M   
+0     kernel_task      38.5 10M-  
+969   Google Chrome He 23.8 68M+  
+689   corespotlightd   18.3 29M   
+729   photolibraryd    12.0 22M+  
+669   fileproviderd    9.8  16M-  
+531   com.apple.Driver 9.5  33M   
+1     launchd          9.5  25M   
+878   Google Chrome    9.3  211M+ 
+2300  top              6.3  4320K+
+Processes: 782 total, 3 running, 779 sleeping, 3450 threads 
+2026/11/10 09:59:02
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 15.42% user, 14.0% sys, 70.57% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1856M wired, 1407M compressor), 1337M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1990070/668M in, 4583863/6743M out.
+Disks: 724265/20G read, 402493/6075M written.
+
+PID   COMMAND          %CPU MEM   
+689   corespotlightd   93.6 34M+  
+2005  WireGuardNetwork 75.8 55M   
+0     kernel_task      38.4 10M-  
+531   com.apple.Driver 10.3 33M   
+669   fileproviderd    8.1  16M   
+705   cloudd           6.7  16M+  
+653   Finder           6.7  79M   
+2300  top              6.3  4336K+
+2176  com.apple.appkit 4.6  30M-  
+752   nsurlsessiond    4.0  7424K 
+Processes: 782 total, 4 running, 778 sleeping, 3439 threads 
+2026/11/10 09:59:03
+Load Avg: 2.00, 2.25, 2.79 
+CPU usage: 9.2% user, 11.84% sys, 79.13% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1838M wired, 1407M compressor), 1345M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 1997774/669M in, 4603691/6771M out.
+Disks: 724265/20G read, 402548/6076M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 74.2 55M   
+689   corespotlightd   57.3 29M-  
+0     kernel_task      35.4 10M   
+387   dasd             8.7  11M-  
+531   com.apple.Driver 8.7  33M   
+2300  top              6.5  4336K 
+400   notifyd          5.1  4320K 
+2301  iperf3           3.3  2129K 
+696   suggestd         2.1  23M-  
+888   rtcreportingd    1.6  5472K+
+Processes: 782 total, 4 running, 778 sleeping, 3424 threads 
+2026/11/10 09:59:04
+Load Avg: 2.00, 2.24, 2.78 
+CPU usage: 3.77% user, 12.26% sys, 83.96% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1883M wired, 1407M compressor), 1349M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2005956/669M in, 4622431/6797M out.
+Disks: 724266/20G read, 402754/6078M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 81.8 55M   
+0     kernel_task      38.7 10M   
+531   com.apple.Driver 9.1  33M   
+2300  top              6.0  4336K 
+2301  iperf3           3.8  2129K 
+406   WindowServer     1.9  484M+ 
+669   fileproviderd    1.6  16M+  
+1993  WireGuard        0.7  27M+  
+659   bird             0.6  11M+  
+2176  com.apple.appkit 0.3  30M   
+Processes: 782 total, 5 running, 777 sleeping, 3423 threads 
+2026/11/10 09:59:06
+Load Avg: 2.00, 2.24, 2.78 
+CPU usage: 6.0% user, 11.92% sys, 82.6% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 360M private, 1857M shared.
+PhysMem: 14G used (1847M wired, 1407M compressor), 1349M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2013707/670M in, 4640019/6821M out.
+Disks: 724266/20G read, 403024/6080M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 70.9 55M   
+0     kernel_task      35.7 10M   
+669   fileproviderd    10.8 17M+  
+752   nsurlsessiond    10.2 7424K 
+531   com.apple.Driver 9.0  33M   
+705   cloudd           7.8  16M   
+2300  top              6.5  4336K 
+656   trustd           6.5  8912K 
+659   bird             4.5  10M-  
+2301  iperf3           3.6  2129K 
+Processes: 782 total, 5 running, 777 sleeping, 3423 threads 
+2026/11/10 09:59:07
+Load Avg: 2.00, 2.24, 2.78 
+CPU usage: 3.96% user, 11.61% sys, 84.41% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1881M wired, 1407M compressor), 1369M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2022243/671M in, 4658162/6846M out.
+Disks: 724269/20G read, 403232/6082M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 74.3 55M   
+0     kernel_task      36.1 10M   
+531   com.apple.Driver 8.4  33M   
+2300  top              6.2  4336K 
+2301  iperf3           3.7  2129K 
+752   nsurlsessiond    3.4  7424K 
+705   cloudd           2.4  16M-  
+656   trustd           2.4  8912K 
+406   WindowServer     1.6  482M+ 
+669   fileproviderd    1.4  16M-  
+Processes: 782 total, 3 running, 779 sleeping, 3329 threads 
+2026/11/10 09:59:08
+Load Avg: 2.00, 2.24, 2.78 
+CPU usage: 4.98% user, 13.66% sys, 81.34% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1828M wired, 1407M compressor), 1385M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2031677/672M in, 4680177/6877M out.
+Disks: 724271/20G read, 403463/6084M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 84.9 55M-  
+0     kernel_task      42.0 10M   
+531   com.apple.Driver 10.2 33M   
+669   fileproviderd    8.3  16M+  
+2300  top              8.3  4336K 
+653   Finder           5.4  79M   
+2176  com.apple.appkit 4.8  30M   
+2301  iperf3           3.9  2129K 
+705   cloudd           3.3  16M   
+659   bird             2.6  10M-  
+Processes: 782 total, 3 running, 779 sleeping, 3329 threads 
+2026/11/10 09:59:09
+Load Avg: 2.00, 2.24, 2.78 
+CPU usage: 3.52% user, 11.63% sys, 84.84% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1862M wired, 1407M compressor), 1383M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2039573/672M in, 4700169/6905M out.
+Disks: 724271/20G read, 403514/6085M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 80.8 55M   
+0     kernel_task      37.6 10M   
+531   com.apple.Driver 8.9  33M   
+2300  top              5.0  4336K 
+2301  iperf3           3.5  2161K+
+406   WindowServer     2.4  450M- 
+653   Finder           2.2  79M-  
+888   rtcreportingd    1.5  5424K-
+1993  WireGuard        0.6  27M-  
+752   nsurlsessiond    0.5  7424K 
+Processes: 782 total, 3 running, 779 sleeping, 3325 threads 
+2026/11/10 09:59:10
+Load Avg: 3.04, 2.45, 2.85 
+CPU usage: 4.89% user, 11.71% sys, 83.38% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1897M wired, 1407M compressor), 1382M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2047859/673M in, 4719322/6931M out.
+Disks: 724273/20G read, 403698/6087M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 75.2 55M   
+0     kernel_task      37.6 10M   
+531   com.apple.Driver 9.2  33M   
+752   nsurlsessiond    7.1  7424K 
+669   fileproviderd    5.8  16M+  
+2300  top              4.9  4352K+
+705   cloudd           3.4  16M-  
+2301  iperf3           3.4  2161K 
+656   trustd           3.0  8912K 
+659   bird             2.5  10M+  
+Processes: 782 total, 4 running, 778 sleeping, 3322 threads 
+2026/11/10 09:59:11
+Load Avg: 3.04, 2.45, 2.85 
+CPU usage: 4.86% user, 12.50% sys, 82.63% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1845M wired, 1407M compressor), 1381M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2056241/674M in, 4738903/6959M out.
+Disks: 724273/20G read, 403873/6088M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 82.3 55M   
+0     kernel_task      38.8 10M   
+531   com.apple.Driver 9.4  33M   
+705   cloudd           5.4  16M+  
+2300  top              5.3  4352K 
+656   trustd           4.6  8912K 
+752   nsurlsessiond    4.5  7424K 
+2301  iperf3           3.8  2177K+
+669   fileproviderd    3.7  16M+  
+653   Finder           2.8  79M+  
+Processes: 782 total, 3 running, 779 sleeping, 3320 threads 
+2026/11/10 09:59:12
+Load Avg: 3.04, 2.45, 2.85 
+CPU usage: 5.47% user, 13.1% sys, 81.50% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1881M wired, 1407M compressor), 1380M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2065189/675M in, 4759527/6987M out.
+Disks: 724273/20G read, 404081/6091M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 80.5 55M   
+0     kernel_task      39.5 10M   
+531   com.apple.Driver 10.3 33M-  
+669   fileproviderd    7.3  17M+  
+2300  top              6.2  4352K 
+705   cloudd           5.8  16M-  
+2176  com.apple.appkit 4.1  30M   
+653   Finder           3.9  79M+  
+659   bird             3.8  10M   
+2301  iperf3           3.8  2177K 
+Processes: 782 total, 2 running, 780 sleeping, 3317 threads 
+2026/11/10 09:59:13
+Load Avg: 3.04, 2.45, 2.85 
+CPU usage: 3.68% user, 12.37% sys, 83.94% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1845M wired, 1407M compressor), 1381M unused.
+VM: 379T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2074217/676M in, 4779631/7015M out.
+Disks: 724273/20G read, 404149/6091M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 85.1 55M   
+0     kernel_task      41.2 10M   
+531   com.apple.Driver 9.1  33M   
+2300  top              6.2  4352K 
+653   Finder           3.9  79M-  
+2301  iperf3           3.9  2177K 
+669   fileproviderd    2.4  16M-  
+406   WindowServer     1.5  457M- 
+2176  com.apple.appkit 1.0  30M   
+1993  WireGuard        0.7  27M-  
+Processes: 781 total, 9 running, 772 sleeping, 3365 threads 
+2026/11/10 09:59:14
+Load Avg: 3.04, 2.45, 2.85 
+CPU usage: 4.54% user, 12.40% sys, 83.4% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1881M wired, 1407M compressor), 1378M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2082397/676M in, 4798481/7042M out.
+Disks: 724315/20G read, 404495/6094M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 76.1 55M   
+0     kernel_task      37.0 10M   
+531   com.apple.Driver 8.5  33M   
+2300  top              5.9  4352K 
+1172  spotlightknowled 5.0  15M+  
+2301  iperf3           3.7  2177K 
+696   suggestd         2.3  23M+  
+657   identityservices 2.1  19M+  
+406   WindowServer     1.9  484M+ 
+788   IMDPersistenceAg 1.8  20M+  
+Processes: 781 total, 3 running, 778 sleeping, 3387 threads 
+2026/11/10 09:59:15
+Load Avg: 2.95, 2.45, 2.85 
+CPU usage: 9.23% user, 11.59% sys, 79.17% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 53 total, 1840K resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1379M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2090285/677M in, 4816717/7067M out.
+Disks: 724321/20G read, 405134/6099M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 62.2 55M   
+0     kernel_task      32.8 10M   
+708   mediaanalysisd   25.6 22M+  
+531   com.apple.Driver 9.0  33M   
+669   fileproviderd    7.8  17M+  
+752   nsurlsessiond    7.1  7424K 
+2300  top              6.1  4352K 
+1172  spotlightknowled 4.0  15M+  
+696   suggestd         3.6  23M+  
+657   identityservices 3.5  19M   
+Processes: 781 total, 2 running, 779 sleeping, 3380 threads 
+2026/11/10 09:59:16
+Load Avg: 2.95, 2.45, 2.85 
+CPU usage: 5.16% user, 12.3% sys, 82.80% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1844M wired, 1407M compressor), 1378M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2098223/678M in, 4835024/7092M out.
+Disks: 724321/20G read, 405362/6101M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 74.2 55M   
+0     kernel_task      37.1 10M   
+531   com.apple.Driver 9.4  33M   
+2300  top              6.3  4352K 
+752   nsurlsessiond    5.1  7424K 
+705   cloudd           4.9  16M+  
+669   fileproviderd    4.7  16M-  
+656   trustd           4.7  8912K 
+2301  iperf3           3.5  2193K 
+653   Finder           3.0  79M+  
+Processes: 781 total, 3 running, 778 sleeping, 3376 threads 
+2026/11/10 09:59:17
+Load Avg: 2.95, 2.45, 2.85 
+CPU usage: 4.0% user, 12.29% sys, 83.69% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1378M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2106732/679M in, 4855620/7121M out.
+Disks: 724321/20G read, 405567/6103M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 82.0 55M   
+0     kernel_task      38.7 10M   
+531   com.apple.Driver 9.9  33M   
+2300  top              5.1  4352K 
+2301  iperf3           3.7  2193K 
+705   cloudd           2.0  16M   
+752   nsurlsessiond    1.9  7424K 
+656   trustd           1.3  8912K 
+406   WindowServer     1.1  455M- 
+659   bird             1.0  10M+  
+Processes: 781 total, 4 running, 777 sleeping, 3374 threads 
+2026/11/10 09:59:18
+Load Avg: 2.95, 2.45, 2.85 
+CPU usage: 4.62% user, 12.96% sys, 82.40% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1880M wired, 1407M compressor), 1377M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2115704/679M in, 4877053/7151M out.
+Disks: 724321/20G read, 405650/6104M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 83.4 55M   
+0     kernel_task      39.2 10M   
+531   com.apple.Driver 9.4  33M   
+669   fileproviderd    8.3  16M+  
+2300  top              8.3  4352K 
+653   Finder           5.8  79M+  
+2176  com.apple.appkit 4.6  30M   
+2301  iperf3           3.7  2193K 
+705   cloudd           3.2  16M   
+659   bird             2.4  10M-  
+Processes: 781 total, 5 running, 776 sleeping, 3359 threads 
+2026/11/10 09:59:19
+Load Avg: 2.88, 2.44, 2.84 
+CPU usage: 5.12% user, 12.61% sys, 82.25% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1374M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2123945/680M in, 4896776/7178M out.
+Disks: 724321/20G read, 405719/6104M written.
+
+PID   COMMAND          %CPU MEM   
+2005  WireGuardNetwork 82.5 55M+  
+0     kernel_task      39.9 10M   
+689   corespotlightd   10.2 33M+  
+531   com.apple.Driver 9.3  33M   
+2300  top              5.6  4368K+
+2301  iperf3           3.9  2193K 
+383   locationd        2.6  10M+  
+387   dasd             2.4  11M+  
+653   Finder           1.3  79M-  
+406   WindowServer     0.9  455M- 
+Processes: 781 total, 3 running, 778 sleeping, 3423 threads 
+2026/11/10 09:59:21
+Load Avg: 2.88, 2.44, 2.84 
+CPU usage: 20.0% user, 12.86% sys, 67.13% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1881M wired, 1407M compressor), 1375M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2131938/681M in, 4915454/7204M out.
+Disks: 724344/20G read, 406044/6106M written.
+
+PID   COMMAND          %CPU  MEM   
+689   corespotlightd   143.0 29M-  
+2005  WireGuardNetwork 64.7  56M+  
+0     kernel_task      35.0  10M   
+708   mediaanalysisd   19.6  28M+  
+696   suggestd         12.1  23M+  
+531   com.apple.Driver 9.5   33M   
+1172  spotlightknowled 7.2   15M+  
+2300  top              6.1   4368K 
+657   identityservices 4.0   19M+  
+2301  iperf3           3.0   2209K+
+Processes: 781 total, 3 running, 778 sleeping, 3417 threads 
+2026/11/10 09:59:22
+Load Avg: 2.88, 2.44, 2.84 
+CPU usage: 3.60% user, 11.11% sys, 85.28% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1375M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2139737/682M in, 4934718/7231M out.
+Disks: 724346/20G read, 406122/6107M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 76.8  56M+  
+0     kernel_task      35.2  10M   
+531   com.apple.Driver 8.8   33M   
+708   mediaanalysisd   7.5   23M-  
+2300  top              5.7   4368K 
+2301  iperf3           3.7   2209K 
+1993  WireGuard        1.2   27M+  
+1172  spotlightknowled 1.1   15M   
+406   WindowServer     1.0   482M- 
+411   runningboardd    0.6   10M   
+Processes: 781 total, 4 running, 777 sleeping, 3411 threads 
+2026/11/10 09:59:23
+Load Avg: 2.88, 2.44, 2.84 
+CPU usage: 3.31% user, 11.93% sys, 84.75% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1376M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2148360/682M in, 4954697/7259M out.
+Disks: 724346/20G read, 406122/6107M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 84.9  56M+  
+0     kernel_task      39.5  10M   
+531   com.apple.Driver 9.9   33M   
+2300  top              5.9   4368K 
+2301  iperf3           4.0   2209K 
+406   WindowServer     1.5   482M  
+392   PerfPowerService 0.8   14M   
+1993  WireGuard        0.7   27M+  
+1113  Google Chrome He 0.4   918M  
+333   logd             0.2   15M-  
+Processes: 781 total, 3 running, 778 sleeping, 3391 threads 
+2026/11/10 09:59:24
+Load Avg: 2.88, 2.44, 2.84 
+CPU usage: 2.57% user, 10.96% sys, 86.46% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1407M compressor), 1377M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2155648/683M in, 4972911/7284M out.
+Disks: 724346/20G read, 406124/6107M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 75.8  56M   
+0     kernel_task      35.4  10M   
+531   com.apple.Driver 8.2   33M   
+2300  top              5.1   4368K 
+2301  iperf3           3.4   2209K 
+888   rtcreportingd    1.3   5376K+
+406   WindowServer     1.0   482M  
+1993  WireGuard        0.8   27M-  
+1113  Google Chrome He 0.2   918M  
+402   corebrightnessd  0.1   5040K 
+Processes: 781 total, 2 running, 779 sleeping, 3417 threads 
+2026/11/10 09:59:25
+Load Avg: 2.81, 2.43, 2.84 
+CPU usage: 6.49% user, 11.0% sys, 82.50% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1836M wired, 1406M compressor), 1354M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2161666/684M in, 4987913/7305M out.
+Disks: 724426/20G read, 406831/6114M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 57.2  56M+  
+0     kernel_task      30.3  10M   
+1172  spotlightknowled 11.6  15M+  
+531   com.apple.Driver 7.8   33M   
+1070  MessagesBlastDoo 6.7   7537K+
+2300  top              6.4   4368K 
+1068  IMTranscoderAgen 4.6   7073K+
+377   apsd             4.4   8161K 
+714   imagent          4.1   17M+  
+841   IMTransferAgent  4.0   9313K-
+Processes: 781 total, 3 running, 778 sleeping, 3393 threads 
+2026/11/10 09:59:26
+Load Avg: 2.81, 2.43, 2.84 
+CPU usage: 3.28% user, 9.77% sys, 86.93% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1836M wired, 1406M compressor), 1355M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2167825/685M in, 5003915/7327M out.
+Disks: 724428/20G read, 406907/6115M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 64.6  56M+  
+0     kernel_task      28.9  10M   
+531   com.apple.Driver 7.4   33M   
+2300  top              6.1   4368K 
+696   suggestd         3.5   23M-  
+2301  iperf3           3.0   2225K 
+656   trustd           1.4   8912K 
+406   WindowServer     1.1   482M  
+1993  WireGuard        0.7   27M+  
+1172  spotlightknowled 0.7   15M+  
+Processes: 780 total, 3 running, 777 sleeping, 3412 threads 
+2026/11/10 09:59:27
+Load Avg: 2.81, 2.43, 2.84 
+CPU usage: 7.93% user, 11.62% sys, 80.43% idle 
+SharedLibs: 1034M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1836M wired, 1406M compressor), 1353M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2175551/685M in, 5023229/7354M out.
+Disks: 724449/20G read, 407327/6117M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 67.9  56M+  
+0     kernel_task      33.8  10M   
+708   mediaanalysisd   25.8  23M+  
+531   com.apple.Driver 10.1  33M   
+1172  spotlightknowled 8.3   15M-  
+696   suggestd         6.9   23M+  
+2300  top              6.0   4368K 
+657   identityservices 3.1   19M+  
+2301  iperf3           3.0   2225K 
+788   IMDPersistenceAg 2.7   20M-  
+Processes: 779 total, 4 running, 775 sleeping, 3425 threads 
+2026/11/10 09:59:28
+Load Avg: 2.81, 2.43, 2.84 
+CPU usage: 3.39% user, 9.63% sys, 86.96% idle 
+SharedLibs: 1035M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1908M wired, 1406M compressor), 1302M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2182117/686M in, 5037947/7375M out.
+Disks: 724451/20G read, 407516/6119M written.
+
+PID   COMMAND          %CPU  MEM   
+2005  WireGuardNetwork 62.3  56M   
+0     kernel_task      31.6  10M   
+531   com.apple.Driver 7.2   33M   
+2300  top              5.7   4384K+
+406   WindowServer     2.1   473M- 
+1439  Terminal         1.9   127M+ 
+669   fileproviderd    1.8   16M+  
+1172  spotlightknowled 0.9   15M   
+1993  WireGuard        0.8   27M-  
+411   runningboardd    0.4   10M   
+Processes: 779 total, 2 running, 777 sleeping, 3433 threads 
+2026/11/10 09:59:29
+Load Avg: 2.81, 2.43, 2.84 
+CPU usage: 3.78% user, 2.79% sys, 93.42% idle 
+SharedLibs: 1035M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1835M wired, 1406M compressor), 1311M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2182194/686M in, 5038038/7375M out.
+Disks: 724451/20G read, 407820/6125M written.
+
+PID   COMMAND          %CPU  MEM   
+752   nsurlsessiond    10.0  7344K+
+2300  top              9.5   4384K 
+705   cloudd           8.0   16M-  
+656   trustd           7.5   8944K+
+669   fileproviderd    6.4   16M+  
+659   bird             4.5   10M+  
+0     kernel_task      3.9   10M   
+653   Finder           2.1   79M+  
+2176  com.apple.appkit 2.0   30M   
+406   WindowServer     1.5   453M- 
+Processes: 779 total, 3 running, 776 sleeping, 3422 threads 
+2026/11/10 09:59:30
+Load Avg: 2.66, 2.41, 2.83 
+CPU usage: 3.3% user, 1.42% sys, 95.54% idle 
+SharedLibs: 1035M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1868M wired, 1406M compressor), 1314M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2182202/686M in, 5038048/7375M out.
+Disks: 724452/20G read, 407844/6125M written.
+
+PID   COMMAND          %CPU  MEM   
+689   corespotlightd   8.8   35M+  
+2300  top              4.9   4384K 
+0     kernel_task      2.3   10M   
+752   nsurlsessiond    2.2   7328K-
+406   WindowServer     2.0   457M+ 
+705   cloudd           1.9   16M+  
+411   runningboardd    1.7   10M   
+729   photolibraryd    1.5   22M+  
+656   trustd           1.3   8944K 
+669   fileproviderd    1.3   16M-  
+Processes: 779 total, 2 running, 777 sleeping, 3417 threads 
+2026/11/10 09:59:31
+Load Avg: 2.66, 2.41, 2.83 
+CPU usage: 14.6% user, 5.79% sys, 80.13% idle 
+SharedLibs: 1035M resident, 192M data, 439M linkedit.
+MemRegions: 0 total, 0B resident, 0B private, 1857M shared.
+PhysMem: 14G used (1880M wired, 1406M compressor), 1313M unused.
+VM: 378T vsize, 57G framework vsize, 0(0) swapins, 0(0) swapouts.
+Networks: packets: 2182208/686M in, 5038051/7375M out.
+Disks: 724704/20G read, 409284/6149M written.
+
+PID   COMMAND          %CPU  MEM   
+689   corespotlightd   77.6  29M-  
+729   photolibraryd    24.1  23M+  
+1     launchd          12.1  25M   
+1352  com.apple.photos 10.5  7361K+
+669   fileproviderd    9.8   16M+  
+969   Google Chrome He 8.5   50M-  
+0     kernel_task      7.4   10M   
+1354  HubbleBlastDoorS 6.7   6721K+
+653   Finder           6.5   79M+  
+2176  com.apple.appkit 5.2   30M   
