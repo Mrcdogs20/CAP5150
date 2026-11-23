@@ -1,0 +1,405 @@
+Linux 7.0.12+kali-amd64 (carter-kali) 	11/10/2026 	_x86_64_	(8 CPU)
+
+09:42:16 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:17 AM     0       562    0.00    0.98    0.00    0.00    0.98     2  irq/66-rtw88_pci
+09:42:17 AM  1000      1275    0.00    0.98    0.00    0.00    0.98     3  xfwm4
+09:42:17 AM  1000      1405    0.98    0.00    0.00    0.00    0.98     4  wrapper-2.0
+09:42:17 AM  1000      6257    0.00    1.96    0.00    0.00    1.96     2  pidstat
+
+09:42:16 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:17 AM     0         1     82.35      0.00   26868   16036   0.11  systemd
+09:42:17 AM     0       405      0.98      0.00   43560   14008   0.10  systemd-journal
+09:42:17 AM     0       793      0.98      0.00 1024596  124528   0.88  Xorg
+
+09:42:17 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:18 AM     0       793    0.00    1.00    0.00    0.00    1.00     1  Xorg
+09:42:18 AM  1000      6257    0.00    2.00    0.00    0.00    2.00     2  pidstat
+
+09:42:17 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:18 AM     0       793      1.00      0.00 1024596  124528   0.88  Xorg
+
+09:42:18 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:19 AM     0        66    0.00    1.00    0.00    0.00    1.00     6  kworker/u32:2-gfx
+09:42:19 AM     0       562    0.00   24.00    0.00    0.00   24.00     2  irq/66-rtw88_pci
+09:42:19 AM     0       793    1.00    0.00    0.00    0.00    1.00     4  Xorg
+09:42:19 AM  1000      2273    0.00    1.00    0.00    0.00    1.00     1  qterminal
+09:42:19 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:19 AM  1000      5726    0.00    8.00    0.00    0.00    8.00     6  iperf3
+09:42:19 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:18 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:19 AM     0       793      3.00      0.00 1022552  124528   0.88  Xorg
+09:42:19 AM  1000      1275      1.00      0.00 1697196  119316   0.84  xfwm4
+09:42:19 AM  1000      5726     42.00      0.00   19412    4528   0.03  iperf3
+
+09:42:19 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:20 AM     0        68    0.00    1.00    0.00    0.00    1.00     5  kworker/u32:4-dm_vblank_control_workqueue
+09:42:20 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:20 AM     0       793    0.00    1.00    0.00    0.00    1.00     0  Xorg
+09:42:20 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:20 AM  1000      5726    1.00   12.00    0.00    0.00   13.00     6  iperf3
+09:42:20 AM  1000      6257    1.00    0.00    0.00    0.00    1.00     3  pidstat
+
+09:42:19 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:20 AM     0       427     40.00      0.00   41896   13816   0.10  systemd-udevd
+09:42:20 AM     0       793      1.00      0.00 1022552  124528   0.88  Xorg
+09:42:20 AM  1000      2273      1.00      0.00  808600   65488   0.46  qterminal
+
+09:42:20 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:21 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:21 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:21 AM  1000      1405    0.00    1.00    0.00    0.00    1.00     4  wrapper-2.0
+09:42:21 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:21 AM  1000      5726    1.00   10.00    0.00    0.00   11.00     6  iperf3
+09:42:21 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:20 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:21 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:22 AM     0       562    0.00   29.00    0.00    0.00   29.00     2  irq/66-rtw88_pci
+09:42:22 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:22 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     3  xfwm4
+09:42:22 AM     0      4833    0.00    2.00    0.00    0.00    2.00     6  kworker/u33:11-rtw_tx_wq
+09:42:22 AM  1000      5726    0.00    8.00    0.00    0.00    8.00     6  iperf3
+09:42:22 AM  1000      6257    1.00    2.00    0.00    0.00    3.00     3  pidstat
+
+09:42:21 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:22 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:23 AM     0       562    0.00   29.00    0.00    0.00   29.00     2  irq/66-rtw88_pci
+09:42:23 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:23 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     4  wrapper-2.0
+09:42:23 AM  1000      1860    1.00    0.00    0.00    0.00    1.00     6  nm-applet
+09:42:23 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:23 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:23 AM  1000      5726    1.00    9.00    0.00    0.00   10.00     6  iperf3
+
+09:42:22 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:23 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:24 AM     0        68    0.00    1.00    0.00    0.00    1.00     1  kworker/u32:4-dm_vblank_control_workqueue
+09:42:24 AM     0       562    0.00   30.00    0.00    0.00   30.00     2  irq/66-rtw88_pci
+09:42:24 AM     0       793    1.00    1.00    0.00    0.00    2.00     0  Xorg
+09:42:24 AM  1000      1275    0.00    1.00    0.00    0.00    1.00     3  xfwm4
+09:42:24 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:24 AM  1000      5726    1.00    9.00    0.00    0.00   10.00     6  iperf3
+09:42:24 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:23 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:24 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:25 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:25 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:25 AM  1000      5726    1.00   11.00    0.00    0.00   12.00     6  iperf3
+09:42:25 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:24 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:25 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:26 AM     0       562    0.00   27.00    0.00    0.00   27.00     2  irq/66-rtw88_pci
+09:42:26 AM     0       793    1.00    0.00    0.00    0.00    1.00     6  Xorg
+09:42:26 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     4  wrapper-2.0
+09:42:26 AM     0      4833    0.00    3.00    0.00    0.00    3.00     0  kworker/u33:11-rtw_tx_wq
+09:42:26 AM  1000      5726    0.00    9.00    0.00    0.00    9.00     6  iperf3
+09:42:26 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:25 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+
+09:42:26 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:27 AM     0       562    0.00   29.00    0.00    0.00   29.00     2  irq/66-rtw88_pci
+09:42:27 AM     0       793    0.00    1.00    0.00    0.00    1.00     0  Xorg
+09:42:27 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     3  xfwm4
+09:42:27 AM     0      4833    0.00    3.00    0.00    0.00    3.00     4  kworker/u33:11-rtw_tx_wq
+09:42:27 AM  1000      5726    1.00    8.00    0.00    0.00    9.00     6  iperf3
+09:42:27 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:26 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:27 AM     0       793      4.00      0.00 1022552  124528   0.88  Xorg
+
+09:42:27 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:28 AM     0        68    0.00    1.00    0.00    0.00    1.00     4  kworker/u32:4-dm_vblank_control_workqueue
+09:42:28 AM     0       562    0.00   29.00    0.00    0.00   29.00     2  irq/66-rtw88_pci
+09:42:28 AM     0       793    1.00    1.00    0.00    0.00    2.00     6  Xorg
+09:42:28 AM     0      4833    0.00    4.00    0.00    0.00    4.00     0  kworker/u33:11-rtw_tx_wq
+09:42:28 AM  1000      5726    0.00   10.00    0.00    0.00   10.00     6  iperf3
+09:42:28 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:27 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:28 AM     0       793      3.00      0.00 1024600  124528   0.88  Xorg
+09:42:28 AM  1000      2273      1.00      0.00  808600   65488   0.46  qterminal
+
+09:42:28 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:29 AM     0       562    0.00   30.00    0.00    0.00   30.00     2  irq/66-rtw88_pci
+09:42:29 AM     0       793    0.00    1.00    0.00    0.00    1.00     4  Xorg
+09:42:29 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:29 AM     0      4833    0.00    3.00    0.00    0.00    3.00     4  kworker/u33:11-rtw_tx_wq
+09:42:29 AM  1000      5726    0.00   10.00    0.00    0.00   10.00     6  iperf3
+09:42:29 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:28 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:29 AM     0       793      2.00      0.00 1022552  124528   0.88  Xorg
+
+09:42:29 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:30 AM     0        15    1.00    0.00    0.00    0.00    1.00     0  rcu_preempt
+09:42:30 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:30 AM     0       793    1.00    1.00    0.00    0.00    2.00     0  Xorg
+09:42:30 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:30 AM  1000      5726    0.00   11.00    0.00    0.00   11.00     6  iperf3
+09:42:30 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:29 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:30 AM     0       793      3.00      0.00 1028696  124528   0.88  Xorg
+
+09:42:30 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:31 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:31 AM     0       793    1.00    0.00    0.00    0.00    1.00     6  Xorg
+09:42:31 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:31 AM     0      4833    0.00    4.00    0.00    0.00    4.00     0  kworker/u33:11-rtw_tx_wq
+09:42:31 AM  1000      5726    1.00   10.00    0.00    0.00   11.00     6  iperf3
+09:42:31 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:30 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:31 AM     0       793      3.00      0.00 1022552  124528   0.88  Xorg
+
+09:42:31 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:32 AM     0       562    0.00   26.00    0.00    0.00   26.00     2  irq/66-rtw88_pci
+09:42:32 AM     0       793    1.00    1.00    0.00    0.00    2.00     0  Xorg
+09:42:32 AM  1000      1275    0.00    1.00    0.00    0.00    1.00     3  xfwm4
+09:42:32 AM     0      4833    0.00    2.00    0.00    0.00    2.00     7  kworker/u33:11-rtw_tx_wq
+09:42:32 AM  1000      5726    0.00   10.00    0.00    0.00   10.00     6  iperf3
+09:42:32 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:31 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:32 AM     0       793      3.00      0.00 1022552  124528   0.88  Xorg
+
+09:42:32 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:33 AM     0       562    0.00   28.00    0.00    0.00   28.00     2  irq/66-rtw88_pci
+09:42:33 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:33 AM  1000      1405    0.00    1.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:33 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:33 AM     0      4833    0.00    4.00    0.00    0.00    4.00     7  kworker/u33:11-rtw_tx_wq
+09:42:33 AM  1000      5726    0.00   11.00    0.00    0.00   11.00     6  iperf3
+09:42:33 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:32 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:33 AM     0       793      3.00      0.00 1022552  124528   0.88  Xorg
+
+09:42:33 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:34 AM     0        68    0.00    1.00    0.00    0.00    1.00     4  kworker/u32:4-events_unbound
+09:42:34 AM     0       562    0.00   30.00    0.00    0.00   30.00     2  irq/66-rtw88_pci
+09:42:34 AM     0       793    0.00    1.00    0.00    0.00    1.00     6  Xorg
+09:42:34 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:34 AM  1000      5726    0.00    9.00    0.00    0.00    9.00     6  iperf3
+09:42:34 AM  1000      6257    0.00    2.00    0.00    0.00    2.00     3  pidstat
+
+09:42:33 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:34 AM     0       793      5.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:34 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:35 AM     0       562    0.00   32.00    0.00    1.00   32.00     2  irq/66-rtw88_pci
+09:42:35 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:35 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     3  xfwm4
+09:42:35 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:35 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:35 AM  1000      5726    0.00    8.00    0.00    0.00    8.00     6  iperf3
+09:42:35 AM     0      5773    0.00    1.00    0.00    0.00    1.00     6  kworker/u32:0-gfx
+09:42:35 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:34 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:35 AM     0       793      4.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:35 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:36 AM     0       562    0.00   29.00    0.00    0.00   29.00     2  irq/66-rtw88_pci
+09:42:36 AM     0       793    1.00    1.00    0.00    0.00    2.00     4  Xorg
+09:42:36 AM     0      4833    0.00    3.00    0.00    0.00    3.00     7  kworker/u33:11-rtw_tx_wq
+09:42:36 AM  1000      5726    2.00   10.00    0.00    0.00   12.00     6  iperf3
+09:42:36 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:35 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:36 AM     0       793      3.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:36 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:37 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:37 AM     0       793    1.00    0.00    0.00    0.00    1.00     0  Xorg
+09:42:37 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:37 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:37 AM  1000      5726    0.00   11.00    0.00    0.00   11.00     6  iperf3
+09:42:37 AM  1000      6256    0.00    1.00    0.00    0.00    1.00     6  vmstat
+09:42:37 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:36 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:37 AM     0       793      3.00      0.00 1026648  124528   0.88  Xorg
+09:42:37 AM  1000      1275      1.00      0.00 1697196  119316   0.84  xfwm4
+
+09:42:37 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:38 AM     0       562    0.00   31.00    0.00    0.00   31.00     2  irq/66-rtw88_pci
+09:42:38 AM     0       793    1.00    1.00    0.00    0.00    2.00     0  Xorg
+09:42:38 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:38 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:38 AM  1000      5726    1.00   10.00    0.00    0.00   11.00     6  iperf3
+09:42:38 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:37 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:38 AM     0       793      3.00      0.00 1030744  124528   0.88  Xorg
+
+09:42:38 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:39 AM     0        68    0.00    1.00    0.00    0.00    1.00     4  kworker/u32:4-events_unbound
+09:42:39 AM     0       562    0.00   23.00    0.00    0.00   23.00     2  irq/66-rtw88_pci
+09:42:39 AM     0       793    1.00    0.00    0.00    0.00    1.00     4  Xorg
+09:42:39 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     3  xfwm4
+09:42:39 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:39 AM  1000      5726    1.00    7.00    0.00    0.00    8.00     6  iperf3
+09:42:39 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:38 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:39 AM     0       793      4.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:39 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:40 AM     0       562    0.00   13.00    0.00    0.00   13.00     2  irq/66-rtw88_pci
+09:42:40 AM     0       793    2.00    0.00    0.00    0.00    2.00     4  Xorg
+09:42:40 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:40 AM     0      4833    0.00    1.00    0.00    0.00    1.00     7  kworker/u33:11-rtw_tx_wq
+09:42:40 AM  1000      5726    0.00    3.00    0.00    0.00    3.00     6  iperf3
+09:42:40 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:39 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:40 AM     0       793      4.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:40 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:41 AM     0       562    0.00   10.00    0.00    0.00   10.00     2  irq/66-rtw88_pci
+09:42:41 AM     0       793    0.00    1.00    0.00    0.00    1.00     4  Xorg
+09:42:41 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:41 AM     0      4833    0.00    2.00    0.00    0.00    2.00     7  kworker/u33:11-rtw_tx_wq
+09:42:41 AM  1000      5726    0.00    3.00    0.00    0.00    3.00     6  iperf3
+09:42:41 AM  1000      6257    0.00    2.00    0.00    0.00    2.00     3  pidstat
+
+09:42:40 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:41 AM     0       793      4.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:41 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:42 AM     0       562    0.00   13.00    0.00    0.00   13.00     2  irq/66-rtw88_pci
+09:42:42 AM     0       793    1.00    1.00    0.00    0.00    2.00     4  Xorg
+09:42:42 AM     0      4833    0.00    2.00    0.00    0.00    2.00     7  kworker/u33:11-rtw_tx_wq
+09:42:42 AM  1000      5726    0.00    4.00    0.00    0.00    4.00     6  iperf3
+09:42:42 AM     0      5773    0.00    1.00    0.00    0.00    1.00     0  kworker/u32:0-dm_vblank_control_workqueue
+09:42:42 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:41 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:42 AM     0       793      3.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:42 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:43 AM     0        66    0.00    1.00    0.00    0.00    1.00     4  kworker/u32:2-gfx
+09:42:43 AM     0       562    0.00   17.00    0.00    0.00   17.00     2  irq/66-rtw88_pci
+09:42:43 AM     0       793    1.00    0.00    0.00    0.00    1.00     6  Xorg
+09:42:43 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     0  xfwm4
+09:42:43 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:43 AM     0      4833    0.00    2.00    0.00    0.00    2.00     6  kworker/u33:11-rtw_tx_wq
+09:42:43 AM  1000      5726    1.00    5.00    0.00    0.00    6.00     6  iperf3
+09:42:43 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:42 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:43 AM     0       793      6.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:43 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:44 AM     0       562    0.00   18.00    0.00    0.00   18.00     2  irq/66-rtw88_pci
+09:42:44 AM     0       677    1.00    0.00    0.00    0.00    1.00     4  NetworkManager
+09:42:44 AM     0       793    1.00    1.00    0.00    0.00    2.00     3  Xorg
+09:42:44 AM     0      4833    0.00    2.00    0.00    0.00    2.00     1  kworker/u33:11-rtw_tx_wq
+09:42:44 AM  1000      5726    1.00    6.00    0.00    0.00    7.00     6  iperf3
+
+09:42:43 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:44 AM     0       793      3.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:44 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:45 AM     0        25    1.00    0.00    0.00    0.00    1.00     2  ksoftirqd/2
+09:42:45 AM     0       562    0.00   15.00    0.00    0.00   15.00     2  irq/66-rtw88_pci
+09:42:45 AM  1000      1275    0.00    1.00    0.00    0.00    1.00     4  xfwm4
+09:42:45 AM     0      4833    0.00    2.00    0.00    0.00    2.00     1  kworker/u33:11-rtw_tx_wq
+09:42:45 AM  1000      5726    0.00    5.00    0.00    0.00    5.00     6  iperf3
+09:42:45 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:44 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:45 AM     0       793      5.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:45 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:46 AM     0       562    0.00   13.00    0.00    0.00   13.00     2  irq/66-rtw88_pci
+09:42:46 AM     0       793    1.00    1.00    0.00    0.00    2.00     3  Xorg
+09:42:46 AM  1000      1405    1.00    0.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:46 AM  1000      1409    0.00    1.00    0.00    0.00    1.00     7  wrapper-2.0
+09:42:46 AM     0      1505    1.00    1.00    0.00    0.00    2.00     7  upowerd
+09:42:46 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:46 AM     0      4833    0.00    2.00    0.00    0.00    2.00     6  kworker/u33:11-rtw_tx_wq
+09:42:46 AM  1000      5726    1.00    3.00    0.00    0.00    4.00     6  iperf3
+09:42:46 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+
+09:42:45 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:46 AM     0       793      4.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:46 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:47 AM     0       562    0.00   14.00    0.00    0.00   14.00     2  irq/66-rtw88_pci
+09:42:47 AM     0       793    1.00    1.00    0.00    0.00    2.00     3  Xorg
+09:42:47 AM  1000      1275    1.00    0.00    0.00    0.00    1.00     4  xfwm4
+09:42:47 AM     0      4833    0.00    1.00    0.00    0.00    1.00     0  kworker/u33:11-rtw_tx_wq
+09:42:47 AM  1000      5726    1.00    3.00    0.00    0.00    4.00     0  iperf3
+09:42:47 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:46 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:47 AM     0       793      3.00      0.00 1024600  124528   0.88  Xorg
+
+09:42:47 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:48 AM     0        66    0.00    1.00    0.00    0.00    1.00     0  kworker/u32:2-events_unbound
+09:42:48 AM     0       562    0.00   16.00    0.00    0.00   16.00     2  irq/66-rtw88_pci
+09:42:48 AM  1000      1405    0.00    1.00    0.00    0.00    1.00     6  wrapper-2.0
+09:42:48 AM     0      4833    0.00    3.00    0.00    0.00    3.00     1  kworker/u33:11-rtw_tx_wq
+09:42:48 AM  1000      5726    0.00    6.00    0.00    0.00    6.00     0  iperf3
+09:42:48 AM  1000      6257    0.00    1.00    0.00    0.00    1.00     3  pidstat
+09:42:48 AM     0      6264    0.00    1.00    0.00    0.00    1.00     4  kworker/u32:3-gfx
+
+09:42:47 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:48 AM     0       793      5.00      0.00 1026648  124528   0.88  Xorg
+
+09:42:48 AM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:42:49 AM     0        68    0.00    1.00    0.00    0.00    1.00     0  kworker/u32:4-gfx
+09:42:49 AM     0       562    0.00    2.00    0.00    0.00    2.00     2  irq/66-rtw88_pci
+09:42:49 AM   987       630    2.00    0.00    0.00    0.00    2.00     3  dbus-daemon
+09:42:49 AM     0       677    4.00    0.00    0.00    0.00    4.00     4  NetworkManager
+09:42:49 AM     0       772    1.00    0.00    0.00    0.00    1.00     0  wpa_supplicant
+09:42:49 AM     0       793    1.00    2.00    0.00    0.00    3.00     3  Xorg
+09:42:49 AM  1000      1860    1.00    1.00    0.00    0.00    2.00     5  nm-applet
+09:42:49 AM  1000      2273    1.00    0.00    0.00    0.00    1.00     7  qterminal
+09:42:49 AM  1000      6257    1.00    1.00    0.00    0.00    2.00     3  pidstat
+
+09:42:48 AM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:42:49 AM     0       793     13.00      0.00 1026648  124528   0.88  Xorg
+09:42:49 AM  1000      5726      1.00      0.00   19284    4400   0.03  iperf3
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0        15    0.03    0.00    0.00    0.00    0.03     -  rcu_preempt
+Average:        0        25    0.03    0.00    0.00    0.03    0.03     -  ksoftirqd/2
+Average:        0        66    0.00    0.09    0.00    0.00    0.09     -  kworker/u32:2-events_unbound
+Average:        0        68    0.00    0.18    0.00    0.00    0.18     -  kworker/u32:4-gfx
+Average:        0       562    0.00   22.53    0.00    0.03   22.53     -  irq/66-rtw88_pci
+Average:      987       630    0.06    0.00    0.00    0.00    0.06     -  dbus-daemon
+Average:        0       677    0.15    0.00    0.00    0.00    0.15     -  NetworkManager
+Average:        0       772    0.03    0.00    0.00    0.00    0.03     -  wpa_supplicant
+Average:        0       793    0.73    0.55    0.00    0.00    1.27     -  Xorg
+Average:     1000      1275    0.18    0.12    0.00    0.00    0.30     -  xfwm4
+Average:     1000      1405    0.27    0.09    0.00    0.00    0.36     -  wrapper-2.0
+Average:     1000      1409    0.00    0.03    0.00    0.00    0.03     -  wrapper-2.0
+Average:        0      1505    0.03    0.03    0.00    0.00    0.06     -  upowerd
+Average:     1000      1860    0.06    0.03    0.00    0.00    0.09     -  nm-applet
+Average:     1000      2273    0.21    0.03    0.00    0.00    0.24     -  qterminal
+Average:        0      4833    0.00    2.45    0.00    0.00    2.45     -  kworker/u33:11-ttm
+Average:     1000      5726    0.45    7.24    0.00    0.00    7.69     -  iperf3
+Average:        0      5773    0.00    0.06    0.00    0.00    0.06     -  kworker/u32:0-events_unbound
+Average:     1000      6257    0.30    1.06    0.00    0.00    1.36     -  pidstat
+Average:        0      6264    0.00    0.03    0.00    0.00    0.03     -  kworker/u32:3-events_unbound
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:        0         1      2.54      0.00   26868   16036   0.11  systemd
+Average:        0       405      0.03      0.00   43560   14008   0.10  systemd-journal
+Average:        0       427      1.21      0.00   41896   13816   0.10  systemd-udevd
+Average:        0       793      3.00      0.00 1024662  124528   0.88  Xorg
+Average:     1000      1275      0.06      0.00 1697196  119316   0.84  xfwm4
+Average:     1000      2273      0.06      0.00  808600   65476   0.46  qterminal
+Average:     1000      5726      1.30      0.00   18903    4516   0.03  iperf3
