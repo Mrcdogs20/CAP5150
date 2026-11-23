@@ -9,9 +9,9 @@ BASE = Path.home() / "Desktop/vpn-ssh-research"
 CLIENT = BASE / "tcp_latency_client.py"
 SSH_KEY = Path.home() / ".ssh/vpn_research_key"
 
-KALI_IP = "192.168.4.36"
-WG_IP = "10.10.0.2"
-KALI_USER = "mrcdogs20"
+KALI_IP = "X.X.X.X"
+WG_IP = "X.X.X.X"
+KALI_USER = "usermame_here"
 
 COUNT = 100
 DELAY = 15
